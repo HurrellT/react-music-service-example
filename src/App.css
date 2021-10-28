@@ -1,0 +1,14 @@
+.App {
+  padding: 4rem;
+}
+
+.album {
+  width: 22rem !important;
+  height: 24rem !important;
+}
+
+.card-text {
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+}
